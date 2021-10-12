@@ -1,5 +1,3 @@
-<br/>
-
 ## How to scan Docker images
 
 * Check the status, if all the services are up.
@@ -31,7 +29,3 @@
 `anchore-cli system feeds list`{{execute}}
 
 If pending is showing, wait for 5-10mins and check the results again.
-
----
-<br/>
-

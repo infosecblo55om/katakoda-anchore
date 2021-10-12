@@ -5,7 +5,6 @@ Anchore: https://github.com/anchore/anchore-engine/
 * Result/Analysis of a docker image can take some time to update as anchore-engine saves the analysis in a database for audit and future purposes.
 <br/>
 
----
 ## How to install
 
 * Let's do the prerequisite first.
@@ -32,5 +31,4 @@ Here, you will see that the docker container for anchore-engine(api, analyzer, p
 
 `anchore-cli --version`{{execute}}
 
----
 <br/>
