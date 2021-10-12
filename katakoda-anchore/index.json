@@ -1,6 +1,6 @@
 {
   "title": "Anchore Scanning tool",
-  "description": "This scenario consists of install and scan docker images using an anchore-scanner by infosecblo55om.",
+  "description": "This scenario consists of installation and scanning of docker images using an anchore-engine by infosecblo55om.",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
