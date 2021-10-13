@@ -14,9 +14,11 @@
 
 `anchore-cli image add docker.io/library/debian:latest`{{execute}}
 
-* Check the status of the analysis. When both the analysis is finished, move to next step.
+* Check the status of the analysis. When both the analysis are finished, move to next step.
 
 `anchore-cli image list`{{execute}}
+
+Check the status again by running the above command if both the images are not analysed.
 
 * Check for the result. You will have three flags to check the result: os, non-os, all. Here, we are considering *all*
 
